@@ -45,3 +45,5 @@ This view is especially valuable for stakeholders to assess whether sales are im
 - Monitor sales performance in real-time.
 - Identify high-potential regions and product models.
 - Understand customer behavior and refine sales strategies.
+
+Screenshot - https://github.com/Suchitra-15/Power-BI--Mobile-Sales-Dashboard/blob/main/Dashboard.png
