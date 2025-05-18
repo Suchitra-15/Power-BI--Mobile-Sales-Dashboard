@@ -18,6 +18,7 @@ Here are three pages of Mobile sales dashboad,
 💳 𝗣𝗮𝘆𝗺𝗲𝗻𝘁 𝗠𝗶𝘅: UPI emerged as the top method (26.36%), just ahead of Debit and Credit Cards.
 
 
+
 🧠 𝗞𝗲𝘆 𝗜𝗻𝘀𝗶𝗴𝗵𝘁𝘀 𝗳𝗿𝗼𝗺 𝘁𝗵𝗲 𝗠𝗧𝗗 𝗥𝗲𝗽𝗼𝗿𝘁:
 
 💰 𝗧𝗼𝘁𝗮𝗹 𝗦𝗮𝗹𝗲𝘀 𝗳𝗼𝗿 𝗝𝗮𝗻𝘂𝗮𝗿𝘆: ₹23M
@@ -28,7 +29,8 @@ Here are three pages of Mobile sales dashboad,
 
 📈 𝗔𝘃𝗲𝗿𝗮𝗴𝗲 𝗦𝗲𝗹𝗹𝗶𝗻𝗴 𝗣𝗿𝗶𝗰𝗲: ₹38K per unit
 
-.
+
+
 🚀𝗞𝗲𝘆 𝗜𝗻𝘀𝗶𝗴𝗵𝘁𝘀 𝗳𝗿𝗼𝗺 𝘁𝗵𝗲 𝗦𝗮𝗺𝗲 𝗣𝗲𝗿𝗶𝗼𝗱 𝗟𝗮𝘀𝘁 𝗬𝗲𝗮𝗿:
 
 This view is especially valuable for stakeholders to assess whether sales are improving, flatlining, or declining across:
