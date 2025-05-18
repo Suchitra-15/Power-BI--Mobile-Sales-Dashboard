@@ -46,4 +46,4 @@ This view is especially valuable for stakeholders to assess whether sales are im
 - Identify high-potential regions and product models.
 - Understand customer behavior and refine sales strategies.
 
-Screenshot - ![Dashboard Preview].(https://github.com/Suchitra-15/Power-BI--Mobile-Sales-Dashboard/blob/main/Dashboard.png)
+![Dashboard Preview].([https://github.com/Suchitra-15/Power-BI--Mobile-Sales-Dashboard/blob/main/Dashboard.png](https://github.com/Suchitra-15/Power-BI--Mobile-Sales-Dashboard/blob/main/Dashboard.png))
