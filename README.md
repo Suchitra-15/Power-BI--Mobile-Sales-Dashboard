@@ -8,13 +8,9 @@ Here are three pages of Mobile sales dashboad,
 🔍 𝗞𝗲𝘆 𝗜𝗻𝘀𝗶𝗴𝗵𝘁𝘀 𝗳𝗿𝗼𝗺 𝘁𝗵𝗲 𝗗𝗮𝘀𝗵𝗯𝗼𝗮𝗿𝗱:
 
 💰 𝗧𝗼𝘁𝗮𝗹 𝗦𝗮𝗹𝗲𝘀: ₹769M with an average price of ₹40K per unit.
-
 📱 𝗧𝗼𝗽 𝗕𝗿𝗮𝗻𝗱𝘀: Apple leads in sales, followed closely by Samsung and OnePlus.
-
 🌍 𝗖𝗶𝘁𝘆-𝘄𝗶𝘀𝗲 𝗧𝗿𝗲𝗻𝗱𝘀: Metro cities like Mumbai, Delhi and Ranchi show strong performance.
-
 📆 𝗠𝗼𝗻𝘁𝗵𝗹𝘆 𝗤𝘂𝗮𝗻𝘁𝗶𝘁𝘆 𝗙𝗹𝗼𝘄: March and August saw the highest units sold.
-
 💳 𝗣𝗮𝘆𝗺𝗲𝗻𝘁 𝗠𝗶𝘅: UPI emerged as the top method (26.36%), just ahead of Debit and Credit Cards.
 
 
