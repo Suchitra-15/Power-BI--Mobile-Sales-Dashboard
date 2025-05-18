@@ -24,9 +24,9 @@ Here are three pages of Mobile sales dashboad,
 This view is especially valuable for stakeholders to assess whether sales are improving, flatlining, or declining across:
 - ✅ Years ✅ Quarters ✅ Months
 - 📦 𝗧𝗼𝘁𝗮𝗹 𝗦𝗮𝗹𝗲𝘀: ₹769M across 3 years
-= 🧾 𝗧𝗿𝗮𝗻𝘀𝗮𝗰𝘁𝗶𝗼𝗻𝘀: Over 4K
+- 🧾 𝗧𝗿𝗮𝗻𝘀𝗮𝗰𝘁𝗶𝗼𝗻𝘀: Over 4K
 - 🏷️ 𝗔𝘃𝗲𝗿𝗮𝗴𝗲 𝗣𝗿𝗶𝗰𝗲: ₹40K per unit
-- 
+  
 
 🔍 𝗜𝗻𝘀𝗶𝗴𝗵𝘁𝘀 𝗨𝗻𝗹𝗼𝗰𝗸𝗲𝗱:
 
