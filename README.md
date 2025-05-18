@@ -72,4 +72,4 @@ This view is especially valuable for stakeholders to assess whether sales are im
 
 ![Dashboard Preview](https://github.com/Suchitra-15/Power-BI--Mobile-Sales-Dashboard/blob/main/Dashboard.png)
 ![Dashboard Preview](https://github.com/Suchitra-15/Power-BI--Mobile-Sales-Dashboard/blob/main/MTD%20Report.png)
-![Dashboard Preview](https://github.com/Suchitra-15/Power-BI--Mobile-Sales-Dashboard/blob/main/MTD%20Report.png)
+![Dashboard Preview](https://github.com/Suchitra-15/Power-BI--Mobile-Sales-Dashboard/blob/main/Same%20period%20last%20year.png))
